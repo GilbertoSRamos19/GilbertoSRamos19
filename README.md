@@ -34,7 +34,7 @@ Aplicação web de chat com integração com IA. Um projeto prático para treina
 ## 📚 Sobre Mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🧠 Explorando IA, automações e jogos com Unreal Engine
-- ☁️ Publicando projetos no GitHub e apps na Play Store
+- ☁️ Publicando projetos no GitHub
 - 🎮 Gamer nas horas vagas e criador de jogos por paixão
 
 ---
