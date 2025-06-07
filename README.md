@@ -39,5 +39,5 @@ Aplicação web de chat com integração com IA. Um projeto prático para treina
 
 ---
 
-📬 Me chama no [LinkedIn](https://www.linkedin.com) ou dá uma olhada nos meus projetos aqui no GitHub!
+📬 Me chama no [LinkedIn](https://www.linkedin.com/in/gilbertosramos/) ou dá uma olhada nos meus projetos aqui no GitHub!
 
